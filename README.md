@@ -9,8 +9,10 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?border_radius=3=1&theme=github_dark&font=libre_baskerville&author=Me&quote=Every+AI+out+there+owes+its+existence+to+cracking+a+simple+linear+equation" alt="Github Readme Daily Quotes" />
+  
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Every+AI+out+there+owes+its+existence+to+cracking+a+simple+linear+equation&border=True&type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
+
 
 
 <!--
