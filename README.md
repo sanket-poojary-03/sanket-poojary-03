@@ -4,14 +4,13 @@
   </a>
   <br/>
     <a href="https://www.linkedin.com/in/sanket-poojary-a01a7a281">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
   <a href="mailto:sanketpoojary003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
  
 </p>
-
 <div align="center">
   
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Every+AI+out+there+owes+its+existence+to+cracking+a+simple+linear+equation&border=True&type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
