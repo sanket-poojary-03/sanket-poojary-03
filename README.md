@@ -3,9 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Lora&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sanket+Poojary;Data+Science+%7C+AI%2FML+%7C+" alt="Typing SVG" />
   </a>
   <br/>
+    <a href="https://www.linkedin.com/in/sanket-poojary-a01a7a281">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:sanketpoojary003@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+ 
 </p>
 
 <div align="center">
