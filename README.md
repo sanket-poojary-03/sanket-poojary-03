@@ -6,8 +6,9 @@
     <a href="https://www.linkedin.com/in/sanket-poojary-a01a7a281">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
+ 
   <a href="mailto:sanketpoojary003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
  
 </p>
