@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
  
-  <a href="mailto:sanketpoojary003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
- 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketpoojary003@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 </p>
 <div align="center">
   
