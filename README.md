@@ -1,35 +1,24 @@
-<p align="center">
-  <a href="https://github.com/sanket-poojary-03">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lora&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Sanket+Poojary;Data+Science+%7C+AI%2FML+%7C+" alt="Typing SVG" />
-  </a>
-  <br/>
-    <a href="https://www.linkedin.com/in/sanket-poojary-a01a7a281">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a>
- 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketpoojary003@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-</p>
 <div align="center">
-  
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Every+AI+out+there+owes+its+existence+to+cracking+a+simple+linear+equation&border=True&type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+# Sanket Poojary
+
+<br/>
+
+into AI, the future of gaming, and whatever VR is slowly becoming.  
+fascinated by where intelligent systems and immersive worlds collide.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sanket-poojary-a01a7a281"><img src="btn-linkedin.svg" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketpoojary003@gmail.com"><img src="btn-gmail.svg" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="https://medium.com/@sanketpoojary"><img src="btn-medium.svg" alt="Medium"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=15&duration=4000&pause=1000&color=777777&center=true&width=660&height=36&lines=%22Every+AI+owes+its+existence+to+cracking+a+simple+linear+equation.%22" alt="quote" />
+
+<br/>
+
 </div>
-
-
-
-<!--
-**sanket-poojary-03/sanket-poojary-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...nn
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
