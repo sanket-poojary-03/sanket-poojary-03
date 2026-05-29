@@ -2,7 +2,7 @@
 
 <br/>
 
-# Sanket Poojary
+# Sanketh Poojary
 
 <br/>
 
@@ -10,7 +10,7 @@ Building in AI. curious about VR. into games.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sanket-poojary-a01a7a281"><img src="btn-linkedin.svg" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanketh-poojary-a01a7a281"><img src="btn-linkedin.svg" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanketpoojary003@gmail.com"><img src="btn-gmail.svg" alt="Gmail"/></a>&nbsp;&nbsp;
 <a href="https://medium.com/@poojarysanket.03"><img src="btn-medium.svg" alt="Medium"/></a>
 
